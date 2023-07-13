@@ -6,6 +6,6 @@ public class GitTutorial4Main {
 		
 		GitTutorial4 g = new GitTutorial4();
 		g.getMessage();
-		System.out.println("Version 5 Conflict 2.");
+		System.out.println("Version 5 Conflict Finale.");
 	}
 }
