@@ -6,6 +6,6 @@ public class GitTutorial4Main {
 		
 		GitTutorial4 g = new GitTutorial4();
 		g.getMessage();
-		System.out.println("This is Version 2 of Branching and Merging");
+		System.out.println("This is Version 3 of Branching and Merging");
 	}
 }
